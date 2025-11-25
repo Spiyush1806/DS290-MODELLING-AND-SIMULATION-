@@ -54,7 +54,7 @@ This repository contains lecture notes and summaries for *DS 290: Modelling and 
 * 🧪 Mid & End Sem Schedule
 - [X] Mid Sem 1: Chapters 5–8 (17 Sep) – 25%
 - [x] Mid Sem 2: Chapters 9–12 (15 Oct) – 25%
-- [ ] End Sem: Full Syllabus (24 Nov) – 50%
+- [x] End Sem: Full Syllabus (24 Nov) – 50%
 
 * 📝 Glossary
 - i.i.d. = independent and identically distributed
